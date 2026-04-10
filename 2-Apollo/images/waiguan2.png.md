@@ -8,7 +8,7 @@ sha: 3017a130314b61330366379160febb13dff25707c4b0eaea0da8d1304a71556e
 width: 948
 height: 647
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:43:08.149Z
+generated_at: 2026-04-10T02:14:45.621Z
 tags: ["minecraft", "game-ui", "character-preview", "wizard-skin", "chinese-text", "voxel-art", "mobile-game", "customization"]
 ---
 # waiguan2.png

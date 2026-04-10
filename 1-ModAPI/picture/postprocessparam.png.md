@@ -8,7 +8,7 @@ sha: 77d8982e35467859501898428773e756726c9aaeb2ee227ad3d59fe6f73fd3d8
 width: 1389
 height: 571
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:41:10.967Z
+generated_at: 2026-04-10T02:12:46.282Z
 tags: ["minecraft", "gameplay", "comparison", "shaders", "color-grading", "debug-info", "ui", "screenshot"]
 ---
 # postprocessparam.png

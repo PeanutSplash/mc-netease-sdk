@@ -8,7 +8,7 @@ sha: fcb1ab126524d5239175507a4f438c0b7dff869651b798ab2102d9896666e919
 width: 601
 height: 343
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:39:47.151Z
+generated_at: 2026-04-10T02:11:29.660Z
 tags: ["minecraft", "game-ui", "steve", "fox", "jungle", "chinese-text", "screenshot", "sandbox"]
 ---
 # PaperDoll.gif

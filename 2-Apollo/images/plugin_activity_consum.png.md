@@ -8,7 +8,7 @@ sha: e11ce52e1274ac4731538eed7e191a91f4d0dc032e1193170c8efce2082a1e15
 width: 2340
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:42:31.637Z
+generated_at: 2026-04-10T02:14:06.413Z
 tags: ["minecraft", "game-ui", "event-menu", "rewards", "chinese-text", "mobile-game", "virtual-currency", "inventory"]
 ---
 # plugin_activity_consum.png

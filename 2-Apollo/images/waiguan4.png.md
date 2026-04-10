@@ -8,7 +8,7 @@ sha: 4212dbcd50aac43137f5dda3d963aba03063d81807310ffe79d28913e8b2cdb8
 width: 1049
 height: 656
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:43:11.002Z
+generated_at: 2026-04-10T02:14:48.106Z
 tags: ["minecraft", "ui", "mod", "character-preview", "chinese", "magic-circle", "game-interface"]
 ---
 # waiguan4.png

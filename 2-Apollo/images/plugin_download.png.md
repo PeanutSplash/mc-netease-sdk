@@ -8,7 +8,7 @@ sha: 70a8baa1fbd785dd6c0f659edcd28426b8d6f6a02527fdd9ddc42f5e00340528
 width: 1363
 height: 740
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:42:42.120Z
+generated_at: 2026-04-10T02:14:17.424Z
 tags: ["minecraft", "software-ui", "dark-mode", "plugins", "server-management", "chinese", "desktop-app", "modding"]
 ---
 # plugin_download.png

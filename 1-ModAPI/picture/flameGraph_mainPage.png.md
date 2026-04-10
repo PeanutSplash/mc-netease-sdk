@@ -8,7 +8,7 @@ sha: 55a9955bf49137102cb5b2bf30bb8a539581be2259adadddde9c8a5bc720df36
 width: 1228
 height: 343
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:40:32.624Z
+generated_at: 2026-04-10T02:12:01.302Z
 tags: ["flame-graph", "performance", "profiling", "visualization", "software", "debug", "metrics", "programming"]
 ---
 # flameGraph_mainPage.png

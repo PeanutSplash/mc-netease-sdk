@@ -8,7 +8,7 @@ sha: 3678262f493b43dbf1657a7999c04f1f40d180a07c57580669d09cffc0c8cdf0
 width: 1359
 height: 554
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:41:02.911Z
+generated_at: 2026-04-10T02:12:34.997Z
 tags: ["mc-studio", "minecraft", "dashboard-ui", "chinese-language", "modding-tool", "asset-management", "templates", "software"]
 ---
 # neteasepaperdoll.png

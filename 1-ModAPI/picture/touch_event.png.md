@@ -8,7 +8,7 @@ sha: 551f15a62873602a90c5ebe5c665c7699b3a45bc10d71fb6a75d03cf1dbb6adc
 width: 673
 height: 170
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:41:25.770Z
+generated_at: 2026-04-10T02:13:02.428Z
 tags: ["flowchart", "ui-design", "touch-events", "interaction-design", "chinese", "diagram", "software-development", "mind-map"]
 ---
 # touch_event.png

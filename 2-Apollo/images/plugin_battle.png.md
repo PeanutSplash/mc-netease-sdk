@@ -8,7 +8,7 @@ sha: 8b755776953722bc73b5a61f5cefdff41f43ac5b29866da923844123796f8668
 width: 1920
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:42:38.873Z
+generated_at: 2026-04-10T02:14:13.684Z
 tags: ["minecraft", "ui", "inventory", "character-sheet", "rpg", "chinese", "gaming", "pixel-art"]
 ---
 # plugin_battle.png

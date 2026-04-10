@@ -8,7 +8,7 @@ sha: b1b55922a2be7eb3a4df8dfd144a13a8713776251a23f9f7b685f7c9284c50ab
 width: 896
 height: 622
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:41:20.222Z
+generated_at: 2026-04-10T02:12:56.386Z
 tags: ["minecraft", "debug-tool", "compiler-error", "glsl", "shader", "log-viewer", "ide-ui", "chinese-ui"]
 ---
 # shadererrorlog.png

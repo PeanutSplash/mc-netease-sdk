@@ -8,7 +8,7 @@ sha: 0f235a8cfcef924994db7de6b1d4b219391e3d096354ab95ab39fc16769ec0f9
 width: 776
 height: 533
 model: google/gemini-3-flash
-generated_at: 2026-04-10T00:41:24.647Z
+generated_at: 2026-04-10T02:13:01.692Z
 tags: ["minecraft", "screenshot", "mobile", "savanna", "gameplay", "inventory", "ui", "voxels"]
 ---
 # startNavTo.png
