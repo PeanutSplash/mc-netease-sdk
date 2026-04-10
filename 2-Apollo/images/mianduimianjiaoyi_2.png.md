@@ -8,7 +8,7 @@ sha: 908c0a507dd2734ad39add7220504819192d975300dedfac19e5a29ffefe820b
 width: 1253
 height: 790
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:14:00.638Z
+generated_at: 2026-04-10T02:30:48.296Z
 tags: ["minecraft", "user-interface", "inventory", "trading", "gaming", "chinese", "gameplay", "screenshot"]
 ---
 # mianduimianjiaoyi_2.png

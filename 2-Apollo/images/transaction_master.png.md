@@ -8,7 +8,7 @@ sha: e350f1551eabd7f8dad42b714f81fd2e1f255d6a466c14c8d7c2c664136c3e8b
 width: 1567
 height: 2908
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:14:43.675Z
+generated_at: 2026-04-10T02:31:20.943Z
 tags: ["flowchart", "architecture", "server", "notification", "chinese", "diagram", "system-design", "backend"]
 ---
 # transaction_master.png

@@ -8,7 +8,7 @@ sha: 945f3c34f29a81660ceba2c33a004277dcaa85e8a380709038c0021cafcda6d9
 width: 416
 height: 234
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:14:32.505Z
+generated_at: 2026-04-10T02:31:12.082Z
 tags: ["minecraft", "villager", "village", "dialogue", "chinese", "ui", "screenshot"]
 ---
 # plugin_task.jpg

@@ -8,7 +8,7 @@ sha: 0b9f52884c91d2213177df9dcc15d426216333022c47056358dfc60ad7bdf595
 width: 1935
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:14:08.977Z
+generated_at: 2026-04-10T02:30:51.947Z
 tags: ["minecraft", "ui", "chinese", "game-rewards", "pop-up", "in-game-purchase", "alex", "steve"]
 ---
 # plugin_activityreward.png

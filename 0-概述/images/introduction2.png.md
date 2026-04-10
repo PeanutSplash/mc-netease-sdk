@@ -8,7 +8,7 @@ sha: 1bf29b731bcd00a178c074b36e0e4b9008c169a6f93f37873344928c47d238d8
 width: 307
 height: 543
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:11:24.985Z
+generated_at: 2026-04-10T02:27:57.662Z
 tags: ["ui-design", "navigation-menu", "sidebar", "dark-mode", "documentation", "apollo", "api", "sdk"]
 ---
 # introduction2.png

@@ -8,7 +8,7 @@ sha: 91989c0ca02bb0fe7f0894811fc014a7e892a2b0475ae7f6514bd710973bec67
 width: 1849
 height: 601
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:13:54.950Z
+generated_at: 2026-04-10T02:30:43.131Z
 tags: ["minecraft", "game-ui", "savanna", "mobile-gaming", "chinese", "interface", "dialog-box", "screenshot"]
 ---
 # laba.png

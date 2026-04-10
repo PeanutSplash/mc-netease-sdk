@@ -8,7 +8,7 @@ sha: 7c30d6e970772c623587839cb4ea6950d647e25151db77df5a368a394c7b5dfa
 width: 1736
 height: 769
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:13:46.852Z
+generated_at: 2026-04-10T02:30:36.822Z
 tags: ["minecraft", "gameplay", "mobile-ui", "chinese", "slime", "blocks", "first-person", "multiplayer"]
 ---
 # chat_mosheng.png

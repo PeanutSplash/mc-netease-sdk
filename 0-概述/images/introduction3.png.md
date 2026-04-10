@@ -8,7 +8,7 @@ sha: 023a8f9cd95291263294fc845b5b48feb7e79d3c64150005a891862fdcb10a17
 width: 245
 height: 345
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:11:26.662Z
+generated_at: 2026-04-10T02:27:58.338Z
 tags: ["ui", "menu", "navigation", "game-dev", "api", "chinese", "dark-mode", "software-interface"]
 ---
 # introduction3.png

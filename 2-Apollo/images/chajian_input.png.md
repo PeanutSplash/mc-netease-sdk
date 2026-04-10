@@ -8,7 +8,7 @@ sha: 9fe487af912b7704eee47ef0fae50d0bda78cd2ac94d2ee2cf8bde09689d4b8e
 width: 1413
 height: 783
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:13:40.213Z
+generated_at: 2026-04-10T02:30:32.244Z
 tags: ["minecraft", "gui", "screenshot", "chinese", "gaming", "debug-info", "ui-design"]
 ---
 # chajian_input.png

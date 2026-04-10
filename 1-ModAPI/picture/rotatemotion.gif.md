@@ -8,7 +8,7 @@ sha: 1c31748f7a0a6078599105a2ba36f0e395f952e82814dcdbdd31a8a8b6aea44d
 width: 874
 height: 559
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:12:54.396Z
+generated_at: 2026-04-10T02:29:45.804Z
 tags: ["minecraft", "gameplay", "steve", "villager", "ui", "sandbox", "debug-info", "mobile-controls"]
 ---
 # rotatemotion.gif

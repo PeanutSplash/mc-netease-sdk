@@ -8,7 +8,7 @@ sha: c3803cc4ae51b065e7972ffb3c93b6cdb7135119dd1f8bd800bc97a784318b16
 width: 1935
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:14:14.829Z
+generated_at: 2026-04-10T02:30:55.403Z
 tags: ["minecraft", "ui", "chest-management", "chinese", "gameplay", "permissions", "multiplayer", "screenshot"]
 ---
 # plugin_chest.png

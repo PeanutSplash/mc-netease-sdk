@@ -8,7 +8,7 @@ sha: ee785df3d8d51a5ee71f2a93d20b1bfdb081d376b348d91cb7ec8cb137ec7973
 width: 2340
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:13:51.806Z
+generated_at: 2026-04-10T02:30:41.022Z
 tags: ["minecraft", "danmaku", "gaming", "chinese", "screenshot", "voxel", "ui", "comments"]
 ---
 # danmu_01.png

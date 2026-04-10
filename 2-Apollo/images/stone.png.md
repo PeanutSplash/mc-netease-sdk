@@ -8,7 +8,7 @@ sha: b949e12ebe2f23979f490ba9e92abcf9ea84e970be694e36fb5964a16689e011
 width: 1920
 height: 1078
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:14:36.753Z
+generated_at: 2026-04-10T02:31:15.067Z
 tags: ["ui-design", "pixel-art", "game-dev", "inventory", "equipment-screen", "rpg", "grayscale", "chinese-text"]
 ---
 # stone.png
