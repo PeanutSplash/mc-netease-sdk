@@ -8,7 +8,7 @@ sha: eb21131d33c49f31cf07d3b1a51c58ac4e2ba939835988587f0bc3d9b2ccf8a4
 width: 742
 height: 665
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:29:34.159Z
+generated_at: 2026-04-10T03:07:23.994Z
 tags: ["minecraft", "crafting-table", "inventory-ui", "gaming", "diamond-sword", "voxel-art", "items", "gui"]
 ---
 # recipe.png

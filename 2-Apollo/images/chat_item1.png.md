@@ -8,7 +8,7 @@ sha: c36acad522e71100e5e12b6b3e4f1bdf5aa09b7d98a569bf4c08e4d515cb332f
 width: 1741
 height: 769
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:30:35.564Z
+generated_at: 2026-04-10T03:08:23.078Z
 tags: ["minecraft", "sandbox game", "zombie", "first-person", "chinese interface", "ui", "gameplay", "voxel"]
 ---
 # chat_item1.png

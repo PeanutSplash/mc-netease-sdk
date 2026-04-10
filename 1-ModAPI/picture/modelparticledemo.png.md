@@ -8,7 +8,7 @@ sha: 08bd71e4f1cf71fbf3331cd48e15445ce920c64094dc59bfa41e51370dd85689
 width: 1361
 height: 564
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:29:18.382Z
+generated_at: 2026-04-10T03:07:11.531Z
 tags: ["mc-studio", "minecraft", "software-ui", "resource-library", "modding-tool", "dark-mode", "chinese-interface", "tutorial"]
 ---
 # modelparticledemo.png

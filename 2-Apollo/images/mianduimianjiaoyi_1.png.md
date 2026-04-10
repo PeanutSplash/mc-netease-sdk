@@ -8,7 +8,7 @@ sha: be31ccf4391684684a942c07b8a0d649424067944e2d7810bc64db545151efa2
 width: 1263
 height: 730
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:30:46.323Z
+generated_at: 2026-04-10T03:08:34.627Z
 tags: ["minecraft", "gameplay", "mobile game", "ui", "third-person", "chinese", "voxel", "steve"]
 ---
 # mianduimianjiaoyi_1.png

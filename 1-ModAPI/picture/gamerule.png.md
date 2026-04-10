@@ -8,7 +8,7 @@ sha: 8c96b36f3da526f91a1491b3e11ef3ec94d0dd9138519311864d1444cd555bf9
 width: 823
 height: 585
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:28:59.516Z
+generated_at: 2026-04-10T03:06:53.352Z
 tags: ["minecraft", "ui", "settings", "game-rules", "chinese", "toggle", "input-field", "menu"]
 ---
 # gamerule.png

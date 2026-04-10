@@ -8,7 +8,7 @@ sha: bd51a385e063b83fe208e6ca8ba3e205eac70c1b3c6a15ad68eb692b18a4ec0b
 width: 668
 height: 411
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:29:46.847Z
+generated_at: 2026-04-10T03:07:33.306Z
 tags: ["minecraft", "gameplay", "ui", "selection-wheel", "forest", "item-menu", "chinese-interface", "screenshot"]
 ---
 # selectwheel.gif

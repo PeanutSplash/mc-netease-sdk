@@ -8,7 +8,7 @@ sha: 37cf8923c1f0bbc7f045f97a69e900f036907fc0cb5765c8e301c01414b1f8ef
 width: 584
 height: 316
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:30:06.482Z
+generated_at: 2026-04-10T03:07:59.109Z
 tags: ["minecraft", "steve", "coordinate-system", "xyz-axis", "grid-room", "3d-modeling", "game-development", "voxel"]
 ---
 # v28_effect_material.gif

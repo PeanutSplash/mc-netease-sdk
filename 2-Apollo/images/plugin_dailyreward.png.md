@@ -8,7 +8,7 @@ sha: 3fa2b7332bf3ceb1a08bdf7685bfa29df3bb046379d3aaee73735b96ce967b6b
 width: 1935
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:30:56.366Z
+generated_at: 2026-04-10T03:08:45.422Z
 tags: ["minecraft", "game-ui", "daily-reward", "pixel-art", "rpg", "chinese-text", "items", "mod"]
 ---
 # plugin_dailyreward.png

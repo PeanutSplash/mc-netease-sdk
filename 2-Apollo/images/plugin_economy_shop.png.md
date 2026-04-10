@@ -8,7 +8,7 @@ sha: c90684cfcec1f28ed6b8a656f887a5b476b8036138a48ea00ba3068d79f77372
 width: 1935
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:31:00.159Z
+generated_at: 2026-04-10T03:08:48.402Z
 tags: ["minecraft", "game-ui", "shop", "marketplace", "chinese", "screenshot", "sandbox-game", "virtual-currency"]
 ---
 # plugin_economy_shop.png

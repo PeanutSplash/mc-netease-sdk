@@ -8,7 +8,7 @@ sha: bbd622468d5335c024fb18f64e820bc74128d863f001e154708fd3af305dc4df
 width: 500
 height: 376
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:30:15.369Z
+generated_at: 2026-04-10T03:08:07.261Z
 tags: ["minecraft", "gameplay", "first-person", "sea-lantern", "particle-effects", "gaming", "sandbox", "voxel"]
 ---
 # v28_sfx_rotate.gif

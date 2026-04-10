@@ -8,7 +8,7 @@ sha: 99513ca8f64606413797e960b63db78d1718654a9cfe23f325d4b72e585f948f
 width: 1920
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-10T02:30:53.320Z
+generated_at: 2026-04-10T03:08:42.255Z
 tags: ["minecraft", "mobile gaming", "screenshot", "sandbox", "sunset", "ui", "potions", "rpg"]
 ---
 # plugin_announce.png
