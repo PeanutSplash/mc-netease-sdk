@@ -8,7 +8,7 @@ sha: dd5c07908a4caa0f0fca6a0e55397582ac798f8059b98489500647cb5d170c7e
 width: 1419
 height: 782
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:29:05.687Z
+generated_at: 2026-04-10T00:42:05.302Z
 tags: ["minecraft", "screenshot", "gaming", "ui", "flat-world", "mobs", "bedrock-edition", "technical-data"]
 ---
 # chajian_text.png

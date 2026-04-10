@@ -8,7 +8,7 @@ sha: 580c75117e29de34cae47b347bff3f2ffc3ebe62e8051dbcb59aa7103bcdf0c9
 width: 601
 height: 338
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:23:15.369Z
+generated_at: 2026-04-10T00:41:13.464Z
 tags: ["minecraft", "gameplay", "boat", "pig", "seat-swap", "video-game", "chinese-text", "ui"]
 ---
 # riderapi.gif

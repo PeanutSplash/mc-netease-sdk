@@ -8,7 +8,7 @@ sha: 9c1e318b6bddd43aa29a9a682012fe186c2f4227d0ac16f3da2742e8a4143658
 width: 1935
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:36:40.813Z
+generated_at: 2026-04-10T00:42:58.458Z
 tags: ["minecraft", "video-game", "user-interface", "chinese", "multiplayer", "gui", "overlay", "social-menu"]
 ---
 # plugin_team.png

@@ -8,7 +8,7 @@ sha: 023af2471a793da9ccf9cc1f0be47fa0e71f4bc8e73746d87f639203dc121a10
 width: 1197
 height: 675
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:33:36.706Z
+generated_at: 2026-04-10T00:42:43.283Z
 tags: ["minecraft", "ui", "shop", "emeralds", "inventory", "marketplace", "trading", "chinese-text"]
 ---
 # plugin_economy_booth.png

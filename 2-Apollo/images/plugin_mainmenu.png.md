@@ -8,7 +8,7 @@ sha: 2b9c911313baa4fd9b03adf4252a1c86678bdbc5ad7ab85fac564fc28297f3ac
 width: 1935
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:36:19.866Z
+generated_at: 2026-04-10T00:42:56.500Z
 tags: ["minecraft", "gameplay", "ui", "interface", "forest", "pickaxe", "mobile-game", "inventory"]
 ---
 # plugin_mainmenu.png

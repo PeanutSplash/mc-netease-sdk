@@ -8,7 +8,7 @@ sha: 4e2b4df88596d07a1b66aa044292d6c02ad080cbfa2a11ee8fd3c9ccb3a1e5df
 width: 1011
 height: 650
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:38:40.665Z
+generated_at: 2026-04-10T00:43:09.458Z
 tags: ["minecraft", "game-ui", "voxel", "mount", "menu", "character-preview", "chinese-language", "sandbox-game"]
 ---
 # waiguan3.png

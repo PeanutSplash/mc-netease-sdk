@@ -8,7 +8,7 @@ sha: 8c1b8bd5465f1b65d99a62337dd53a3d20d74fae4719834ab0dce47b7987f9fe
 width: 1277
 height: 779
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:21:15.827Z
+generated_at: 2026-04-10T00:41:05.991Z
 tags: ["flowchart", "input-handling", "mobile-gaming", "event-trigger", "ui-design", "technical-diagram", "software-logic", "controls"]
 ---
 # pe_touch_event.png

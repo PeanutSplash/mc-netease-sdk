@@ -8,7 +8,7 @@ sha: 9c679c38007ba92829c23858d0498cec1a852b63703f7048742d4e3b9667d5a9
 width: 407
 height: 545
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:30:13.190Z
+generated_at: 2026-04-10T00:42:14.874Z
 tags: ["minecraft", "inventory", "sword", "tooltip", "ui", "chinese", "gaming", "rpg"]
 ---
 # itemtips.png

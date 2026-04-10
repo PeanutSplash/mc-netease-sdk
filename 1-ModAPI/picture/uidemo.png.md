@@ -8,7 +8,7 @@ sha: dd5f48a0f43703ba5bb05c09ffb0c0e24d4d7f7f5419f742c36b41507663ec53
 width: 1345
 height: 660
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:25:24.627Z
+generated_at: 2026-04-10T00:41:31.910Z
 tags: ["dashboard-ui", "developer-portal", "resource-library", "sdk-examples", "game-development", "chinese", "interface", "tutorial"]
 ---
 # uidemo.png

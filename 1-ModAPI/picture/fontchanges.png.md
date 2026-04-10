@@ -8,7 +8,7 @@ sha: 07a21b3aa9891a712c6b72d2b80913ec922607cdb5ad315236858d1a1150b457
 width: 771
 height: 342
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:18:11.370Z
+generated_at: 2026-04-10T00:40:34.209Z
 tags: ["minecraft", "ui-design", "typography", "chinese", "software-interface", "overlay", "game-mod", "font-selection"]
 ---
 # fontchanges.png

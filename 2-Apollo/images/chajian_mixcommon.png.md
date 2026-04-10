@@ -8,7 +8,7 @@ sha: 6b7f798534350838275f9c9db766c3f9cc677b5d69b76ba0e87c497f4d44cf59
 width: 1414
 height: 782
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:28:57.000Z
+generated_at: 2026-04-10T00:42:04.215Z
 tags: ["minecraft", "ui", "gameplay", "bedrock-edition", "screenshot", "chinese", "menu", "modding"]
 ---
 # chajian_mixcommon.png

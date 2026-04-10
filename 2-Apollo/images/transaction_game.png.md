@@ -8,7 +8,7 @@ sha: 45c20ec4f410c93686388d4fbc23d3ff8fc09b440be5fc738d4cf0bc6dc74702
 width: 4942
 height: 1850
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:37:54.601Z
+generated_at: 2026-04-10T00:43:04.572Z
 tags: ["architecture", "flowchart", "server-node", "notification-flow", "lobby-game", "backend", "diagram", "system-design"]
 ---
 # transaction_game.png

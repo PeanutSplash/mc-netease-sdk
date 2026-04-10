@@ -8,7 +8,7 @@ sha: a41d1294aa02734431a14e300230e8cb800f2840d606f7d31ed00a9c371bfd15
 width: 1920
 height: 1079
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:35:03.089Z
+generated_at: 2026-04-10T00:42:50.744Z
 tags: ["minecraft", "ui", "game-interface", "guild", "chinese", "pixel-art", "dashboard", "management"]
 ---
 # plugin_gang_manage.png

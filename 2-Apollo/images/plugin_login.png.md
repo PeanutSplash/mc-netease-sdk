@@ -8,7 +8,7 @@ sha: 7616b511342993805059eb331f6c0e847ea6caeba49d5f6a0edb6207746eab8c
 width: 1920
 height: 1080
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:35:52.819Z
+generated_at: 2026-04-10T00:42:53.798Z
 tags: ["minecraft", "ui", "chinese", "announcement", "screenshot", "sandbox-game", "house", "sunset"]
 ---
 # plugin_login.png

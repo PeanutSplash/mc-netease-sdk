@@ -8,7 +8,7 @@ sha: ef2c901927df516f8ac6b73fb02472b39d48909e4911d1657d42c0e575da94d7
 width: 1504
 height: 1000
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:31:12.015Z
+generated_at: 2026-04-10T00:42:26.575Z
 tags: ["leaderboard", "ui-design", "pixel-art", "chinese-text", "gaming-ui", "table", "ranking", "placeholder-text"]
 ---
 # paihangbang.png

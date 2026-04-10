@@ -8,7 +8,7 @@ sha: 53c9c1f019e5afc20cb2cacc582d08cb4d51f374cc7e496ede066fa42db32edb
 width: 5067
 height: 4000
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:37:33.197Z
+generated_at: 2026-04-10T00:43:03.043Z
 tags: ["sequence-diagram", "rpc", "callback", "server-architecture", "backend", "communication-flow", "software-design", "api"]
 ---
 # tranasaction_rpc.png

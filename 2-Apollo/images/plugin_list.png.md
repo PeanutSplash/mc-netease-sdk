@@ -8,7 +8,7 @@ sha: fe10f7334e8271b9b43d6ba0b1e9a4ca4c3066bf31a8b6ed566f4340f26db38e
 width: 1319
 height: 725
 model: google/gemini-3-flash
-generated_at: 2026-04-09T06:35:40.568Z
+generated_at: 2026-04-10T00:42:51.840Z
 tags: ["software-ui", "dashboard", "game-development", "plugin-manager", "netease", "minecraft", "chinese-interface", "modal"]
 ---
 # plugin_list.png
